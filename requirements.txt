@@ -1,1 +1,2 @@
 fastapi[all]
+googletrans==4.0.2
